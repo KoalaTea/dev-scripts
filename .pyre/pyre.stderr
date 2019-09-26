@@ -1,0 +1,11 @@
+2019-09-26 17:55:30,166 INFO No binary specified, looking for `pyre.bin` in PATH
+2019-09-26 17:55:30,167 INFO Found: `/home/koalatea/.venv/test/bin/pyre.bin`
+2019-09-26 17:55:30,168 INFO No typeshed specified, looking for it
+2019-09-26 17:55:30,168 DEBUG Trying with: `/home/koalatea/.venv/test/lib/python3.6/site-packages/pyre_check/pyre_check/typeshed/`
+2019-09-26 17:55:30,168 DEBUG Trying with: `/home/koalatea/.venv/test/lib/python3.6/site-packages/pyre_check/typeshed/`
+2019-09-26 17:55:30,169 DEBUG Trying with: `/home/koalatea/.venv/test/lib/python3.6/pyre_check/typeshed/`
+2019-09-26 17:55:30,169 DEBUG Trying with: `/home/koalatea/.venv/test/lib/pyre_check/typeshed/`
+2019-09-26 17:55:30,169 INFO Found: `/home/koalatea/.venv/test/lib/pyre_check/typeshed/`
+2019-09-26 17:55:30,180 INFO Constructing shared directory `/home/koalatea/projects/dev-scripts/.pyre/shared_analysis_directory_4632`
+2019-09-26 17:55:30,182 ERROR No targets or source directories to analyze.
+
