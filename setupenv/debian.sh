@@ -1,0 +1,1 @@
+sudo apt install -y vim gcc python3 python3-venv python3-dev autoconf automake build-essential python-dev libssl-dev libtool kpartx qemu-user-static terminator nodejs npm python3-pip docker haskell-platform
